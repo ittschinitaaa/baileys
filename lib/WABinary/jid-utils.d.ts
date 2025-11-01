@@ -33,4 +33,5 @@ export declare const isJidGroup: (jid: string | undefined) => boolean | undefine
 export declare const isJidStatusBroadcast: (jid: string) => jid is "status@broadcast";
 export declare const isJidBot: (jid: string | undefined) => boolean | "" | undefined;
 export declare const jidNormalizedUser: (jid: string | undefined) => string;
+export declare const lidToJid: (jid: string) => string;
 export declare const getBotJid: (jid: string) => string;
