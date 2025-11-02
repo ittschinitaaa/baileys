@@ -22,8 +22,13 @@
     "WAProto/*"
   ],
   "scripts": {
-    "lint": "eslint src --ext .js,.ts",
-    "lint:fix": "yarn lint --fix"
+    "build": "tsc",
+    "prepare": "tsc",
+    "prepack": "tsc",
+    "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
+    "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
+    "test": "jest",
+    "gen:protobuf": "sh WAProto/GenerateStatics.sh"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
