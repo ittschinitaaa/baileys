@@ -10,7 +10,7 @@
   ],
   "homepage": "https://github.com/this-xyz/bail#readme",
   "repository": {
-    "url": "git+ssh://git@github.com/this-xyz/bail.git"
+    "url": "git@github.com:this-xyz/bail.git"
   },
   "license": "MIT-License",
   "author": "this-xyz",
