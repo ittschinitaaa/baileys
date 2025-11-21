@@ -1,7 +1,4 @@
 
----
-
-📌 README.md (copia y pega)
 
 # 🌟 Baileys - WhatsApp MD
 
