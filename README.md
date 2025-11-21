@@ -47,7 +47,6 @@ const start = () => {
 }
 
 start()
-```bash
 
 ---
 
