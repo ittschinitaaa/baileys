@@ -27,11 +27,11 @@ npm install @whiskeysockets/baileys
 
 ---
 
-```bash
+
 🛠️ Ejemplo básico de uso
 
-import makeWASocket from "@whiskeysockets/baileys"
 ```bash
+import makeWASocket from "@whiskeysockets/baileys"
 
 const start = () => {
     const sock = makeWASocket({
@@ -48,7 +48,7 @@ const start = () => {
 }
 
 start()
-
+```
 ---
 
 👨‍💻 Creador
