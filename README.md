@@ -23,7 +23,7 @@ Este repositorio permite conectarse a WhatsApp, enviar mensajes, enviar multimed
 
 ```bash
 npm install @whiskeysockets/baileys
-
+```bash
 
 ---
 
