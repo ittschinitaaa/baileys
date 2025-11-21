@@ -1,1 +1,3 @@
-> #### <img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/> my WhatsApp bot NagiBot  
+1. Nombre del repositorio:
+2. Opción: A / B / C / D / E
+3. Nombre del creador que quieres que aparezca:
