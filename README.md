@@ -31,6 +31,7 @@ npm install @whiskeysockets/baileys
 🛠️ Ejemplo básico de uso
 
 import makeWASocket from "@whiskeysockets/baileys"
+```bash
 
 const start = () => {
     const sock = makeWASocket({
