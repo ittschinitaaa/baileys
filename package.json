@@ -13,7 +13,7 @@
     "url": "git@github.com:ittschinitaaa/baileys.git"
   },
   "license": "MIT-License",
-  "author": "this-xyz",
+  "author": "ittschinitaaa",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
